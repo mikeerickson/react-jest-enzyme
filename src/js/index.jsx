@@ -15,7 +15,7 @@ var Checkbox   = require('./components/CheckboxWithLabel');
       {id: 6, fname: 'Nate',    lname: 'Asoau',    dob: '11/21/74', email: 'nate.asoau@mac.com'},
       {id: 7, fname: 'Alaya',   lname: 'Asoau',    dob: '11/21/13', email: ''}
     ];
-      
+
 var familyObj = {
   surname: 'Erickson',
   members: familyMembers
